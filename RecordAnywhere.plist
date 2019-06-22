@@ -1,0 +1,4 @@
+{ Filter = {
+	Executables = ( "replayd" );
+	Bundles = ( "com.apple.springboard" );
+}; }

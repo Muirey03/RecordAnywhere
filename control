@@ -1,0 +1,9 @@
+Package: com.muirey03.recordanywhere
+Name: RecordAnywhere
+Depends: mobilesubstrate
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Allow screen recording on the lockscreen
+Maintainer: Muirey03
+Author: Muirey03
+Section: Tweaks
